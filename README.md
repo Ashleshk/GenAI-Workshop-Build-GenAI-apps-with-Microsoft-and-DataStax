@@ -13,11 +13,11 @@ During this workshop, I learnt:
 - 𝐀𝐳𝐮𝐫𝐞 𝐎𝐩𝐞𝐧𝐀𝐈
 - 𝐋𝐚𝐧𝐠𝐟𝐥𝐨𝐰 
 ### Workflow
-![Workflow](/images/workflow.png)
+![Workflow](/Images/workflow.png)
 
 # Mini-Projects Completed
 ### 1. 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐂𝐡𝐚𝐭𝐔𝐈
-![𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐂𝐡𝐚𝐭𝐔𝐈](/images/chatui.png)
+![𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐂𝐡𝐚𝐭𝐔𝐈](/Images/chatui.png)
 
 ### 2. 𝐈𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐢𝐧𝐠 𝐏𝐫𝐨𝐦𝐩𝐭 𝐂𝐡𝐚𝐢𝐧𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐃𝐚𝐭𝐚 𝐟𝐫𝐨𝐦 𝐚 𝐔𝐑𝐋
 ![ChatURL](images/RAGforretail.png)
