@@ -20,17 +20,17 @@ During this workshop, I learnt:
 ![𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐘𝐨𝐮𝐫 𝐂𝐡𝐚𝐭𝐔𝐈](/Images/chatui.png)
 
 ### 2. 𝐈𝐦𝐩𝐥𝐞𝐦𝐞𝐧𝐭𝐢𝐧𝐠 𝐏𝐫𝐨𝐦𝐩𝐭 𝐂𝐡𝐚𝐢𝐧𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐃𝐚𝐭𝐚 𝐟𝐫𝐨𝐦 𝐚 𝐔𝐑𝐋
-![ChatURL](images/RAGforretail.png)
+![ChatURL](/Images/RAGforretail.png)
 
 ### 3. Build a data ingestion pipeline
-![API](images/langchain.png)
+![API](/Images/langchain.png)
 
 ### 4. Making a RAG-based Recommendation Flow for Retail
-![API](images/RAGforretail.png)
+![API](/Images/RAGforretail.png)
 
 ### 5. Finally, Building an API to Host the Chatbot
 
-![API](images/API.png)
+![API](/Images/API.png)
 
 
 This event was a perfect blend of insightful sessions and hands-on practice.
